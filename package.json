@@ -1,0 +1,18 @@
+{
+  "name": "accion_round2_task",
+  "version": "1.0.0",
+  "description": "Expose API endpoint for login with refresh token logic implemented",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Saif Ahmad Farooqui (saif.ahfarooqui@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
